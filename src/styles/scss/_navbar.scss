@@ -1,0 +1,37 @@
+.nav_content {
+  display: flex;
+  justify-items: center;
+  align-items: baseline;
+  position: sticky;
+  top: 120px;
+  
+  justify-content: center;
+  transition: transform linear 300ms;
+  flex-flow: row wrap;
+  .nav_list--content {
+    list-style: none;
+    margin-left: 0;
+    padding-left: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-flow: column nowrap;
+    gap: 20px;
+    .li_item_nav {
+      width: fit-content;
+      position: relative;
+      padding: 10px 1px;
+      width: 100%;
+    }
+  }
+
+  .sc-AxirZ,
+  .hUnVTj {
+    flex-basis: 200px;
+    flex-shrink: 10;
+    flex-grow: 10;
+  }
+
+  @media (max-width: 768px) {
+  }
+}

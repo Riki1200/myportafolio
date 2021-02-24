@@ -1,0 +1,34 @@
+.container .main_container {
+  justify-items: center;
+  place-content: center;
+  .home__author-dev {
+    padding: 10px 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+    
+    margin-bottom: 80px;
+    .skill_content {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      justify-content: center;
+      gap: 20px;
+      h1 {
+        flex-grow: 2;
+        width: 100%;
+        text-align: center;
+        color: #fff;
+      }
+      .skills_bar {
+        width: 100%;
+      }
+    }
+    @media (max-width: 500px) {
+      margin-bottom:180px ;
+    }
+  }
+  
+}
