@@ -22,8 +22,7 @@ export default function Home() {
             <Descriptionauthor>
                 <Photoautor src="images/myprofile.png" />
                 <h1 className='title_author'>
-                    Romeo
-                     <span>Dev</span>
+                  <var>  Romeo Betances </var>
                 </h1>
                 <p className='history_author'>
                     Hello, my name is Romeo, i'm a web and sotfware developer, i'm very happy of which your read about my information, in this web i'll be sharing my knowledge and my done projects too.
