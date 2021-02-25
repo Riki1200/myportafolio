@@ -29,7 +29,7 @@ export default () => {
       <h2> <mark> What i want to do?</mark> </h2> 
       <p>
         I'll want demostring my knowledge and skills. I am always willing to continue learning(knowledgde)
-      </p>
+       </p>
     </div>
   
    </section>
