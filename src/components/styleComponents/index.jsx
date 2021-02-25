@@ -355,7 +355,7 @@ export const ProgressBar = styled('div')`
 export const Navitem = styled(Link)`
     padding: 10px 1.5ch;
     color: #fff;
-    background-color:#000;
+    background: #070724;
     outline:none;
     font-weight:100;    
     text-decoration:none;
