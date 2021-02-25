@@ -14,8 +14,8 @@ export default () => {
         <h2><mark >About me?</mark> </h2>
         <p className='text_info--me'>
           
-          Hi, <mark> my name is Romeo</mark>, i'm a Developer, i am from Dominican Republic i'm grateful of your looking my portafolio.
-          In this portafolio i sharind my knowlegde with to my projects realizated in agreement
+          Hi, <mark> my name is Romeo</mark>, i'm a Developer, i am from Dominican Republic, i am grateful that you look at my portfolio.
+          In this portafolio i'll share my knowlegde and my projects done 
           to measure i get knowledge. Actually i'm student of end
         </p>
       </div>
