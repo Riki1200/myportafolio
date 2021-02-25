@@ -77,7 +77,7 @@ const Navbar = () => {
                     <Navitem to='/contact' data-icon='Contact' className='li_item_a'>Contact</Navitem>
                 </li>
                  <li className='li_item_nav' >
-                    <Navitem to='/about' data-icon='Projects' className='li_item_a'>About</Navitem>
+                    <Navitem to='/about' data-icon='Projects' className='li_item_a'>About Me</Navitem>
                 </li>
             </ol>
             
