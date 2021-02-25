@@ -27,7 +27,7 @@ export default () => {
     </div>
 
   <div className='about_div'>
-      <h2> <mark> What i want do?</mark> </h2> 
+      <h2> <mark> What i want to do?</mark> </h2> 
       <p>
         I want demostring my knowledge and skills. Always am dispose to learning new skills(knowledgde)
       </p>
