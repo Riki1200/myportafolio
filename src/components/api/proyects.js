@@ -8,7 +8,7 @@
 export const project = [
     {
         "nameapp": "HistoryAPP with ReactJS and NodeJS",
-        "url": "https://crudhistoryapp.herokuapp.com/",
+        "url": "https://historyappreactjs.herokuapp.com/",
         "createDate": "2020/12/21",
         initImage: "/images/Proyect.png",
         imageurl: [
