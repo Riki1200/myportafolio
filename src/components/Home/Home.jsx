@@ -26,7 +26,7 @@ export default function Home() {
                      <span>Dev</span>
                 </h1>
                 <p className='history_author'>
-                    Hello, my name is Romeo, i'm developer web and sotfware, i am very happy of wich your read about my information, in this web i be shareding about knowledge and too be i shared my projects realized.
+                    Hello, my name is Romeo, i'm a web and sotfware developer, i'm very happy of which your read about my information, in this web i'll be sharing my knowledge and my done projects too.
                     </p>
                 <Skills>
                     {skills.map((skill, index) => (
