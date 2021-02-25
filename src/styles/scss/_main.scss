@@ -9,8 +9,9 @@
   background-color: black;
   width: 100%;
   
-  
-  background-image: url("/images/code.png");
+  background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 26%, rgba(7,6,93,1) 37%, rgba(9,9,121,1) 63%, rgba(0,212,255,1) 100%);
+  //background-image: url("/images/code.png");
   background-size: cover;
   background-repeat: no-repeat;
   grid-area: MainContainer;
